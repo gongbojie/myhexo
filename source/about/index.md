@@ -1,12 +1,12 @@
 ---
 title: RESUME
-date: 2017-04-19 18:05:52
+date: 2018-08-27 18:05:52
 ---
 ## 联系方式
 
 <!--- 手机：18600755979-->
-- Email: gone0906@gmail.com
-- Telegram: t.me/bjgong
+- <i class="far fa-envelope"></i> Email: [gone0906@gmail.com](gone0906@gmail.com)
+- <i class="fab fa-telegram-plane"></i> Telegram: [t.me/bjgong](https://t.me/bjgong)
 
 ---
 
@@ -59,6 +59,12 @@ date: 2017-04-19 18:05:52
 
 - [简介](http://www.zipingfang.com/case/54.html)
 - 艺活是一款为用户提供一个艺术课程的平台，在此平台上，用户可以查看、选择诸如舞蹈、音乐、美术等多类别的艺术课程，用户可查看课程详情，学员状况、在线报名、课程预约等。
+
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
 
 ## 技能清单

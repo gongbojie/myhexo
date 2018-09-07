@@ -14,6 +14,8 @@ tags: MySQL
 7. 回车后，输入命令 FLUSH PRIVILEGES; 
 8. 回车后，输入命令 SET PASSWORD FOR 'root'@'localhost' = PASSWORD('你的新密码');
 
+<!-- more -->
+
 <head> 
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 

@@ -27,6 +27,8 @@ PS:（如果想重新开启安全设置，则重复1、2步骤，输入csrutil e
 
 原因：10.13版本加强了权限的限制，尤其是对/usr/local目录，默认开通 SIP （System Intergrity Protection），它禁止了软件以root身份在Mac上运行，不管你是在终端中如何运行。
 
+<!-- more -->
+
 ## 换源：
 
 请尽可能用比较新的 RubyGems 版本，建议 2.6.x 以上。

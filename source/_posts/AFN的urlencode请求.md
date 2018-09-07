@@ -4,10 +4,14 @@ date: 2018-07-19 14:42:27
 tags:
 ---
 
+在项目中的网络请求大多数情况下使json格式返回，但是有时候也有其他的格式。
+
 ## <i class="fab fa-internet-explorer"></i> Postman中使用url encode
 
 ![](http://ww1.sinaimg.cn/large/880fe8a4gy1ftfaqhy4ndj20uk092q49.jpg)
 ![](http://ww1.sinaimg.cn/large/880fe8a4gy1ftfano5tswj20uk0aj3zt.jpg)
+
+<!-- more -->
 
 ## AFN常规请求
 
