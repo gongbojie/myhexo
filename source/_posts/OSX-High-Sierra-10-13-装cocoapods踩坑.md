@@ -4,7 +4,6 @@ date: 2018-07-28 17:35:02
 tags:
 ---
 
-# OSX High Sierra 10.13 装cocoapods踩坑
 ## 关掉SIP
 
 步骤：
